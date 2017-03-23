@@ -1,0 +1,7 @@
+.testing {
+  width: 71.42857%; }
+
+.parent {
+  color: red; }
+  .parent .child {
+    color: green; }
