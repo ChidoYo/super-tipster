@@ -25,6 +25,8 @@ coverage
 
 # Bower dependency directory (https://bower.io/)
 bower_components
+lib/
+/lib/
 
 # node-waf configuration
 .lock-wscript
@@ -56,4 +58,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
